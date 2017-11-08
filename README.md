@@ -1,1 +1,1 @@
-# BrilliantGss
+# LinkingGame By Gss
