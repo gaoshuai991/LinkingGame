@@ -1,1 +1,2 @@
-## LinkingGame By Gss
+## 连连看游戏
+# 采用JavaFX组件作为图形界面开发的桌面小游戏
