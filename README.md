@@ -5,5 +5,7 @@
 
 ### 快速体验
 
-方式一：双击LinkingGame.jar
-方式二: java -jar LinkingGame.jar
+方式一：双击LinkingGame.jar 
+
+方式二：java -jar LinkingGame.jar
+
